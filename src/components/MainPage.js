@@ -20,7 +20,7 @@ const MainPage = () => {
             </div>
 
             <div className="justify-self-end md:mr-16 col-span-2 md:w-1/2 absolute">
-                <div className="flex mt-14 relative items-center justify-evenly">
+                <div className="flex mt-10 relative items-center justify-evenly">
                     <button className=" border border-[#F97316] rounded-full w-[100px] sm:w-[120px] md:w-[150px]  py-3 md:text-xl text-[#000000] sm:text-lg text-md"> Register now </button>
                     <button className="text-[#F97316] sm:text-[17px] md:text-[22px] text-[15px] mx-2 font-semibold"> Login </button>
                     <img src={line} alt="/" className=" h-[45px] sm:mx-3 " />
